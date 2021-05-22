@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GorselProgramlamaVize", "WindowsFormsApp7\GorselProgramlamaVize.csproj", "{A5AB7A71-2823-4FD9-8539-2E341A4F0E5A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5AB7A71-2823-4FD9-8539-2E341A4F0E5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5AB7A71-2823-4FD9-8539-2E341A4F0E5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5AB7A71-2823-4FD9-8539-2E341A4F0E5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5AB7A71-2823-4FD9-8539-2E341A4F0E5A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06C0840F-07E8-4FD4-B012-9114AFD425CC}
+	EndGlobalSection
+EndGlobal

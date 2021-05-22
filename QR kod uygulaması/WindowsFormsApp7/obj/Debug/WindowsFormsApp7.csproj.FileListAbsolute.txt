@@ -1,0 +1,69 @@
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.presentation.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.xml
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.xml
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.xml
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.presentation.xml
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ömer Kayaoğlu\source\repos\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\QRCoder.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\QRCoder.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.presentation.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\bin\Debug\zxing.presentation.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe.config
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\WindowsFormsApp7.pdb
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.Video.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\QRCoder.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\zxing.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\zxing.presentation.dll
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.Video.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\zxing.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\bin\Debug\zxing.presentation.xml
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csprojAssemblyReference.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Form1.resources
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.Properties.Resources.resources
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.GenerateResource.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CoreCompileInputs.cache
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.csproj.CopyComplete
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.exe
+C:\Users\Ömer Kayaoğlu\Desktop\WindowsFormsApp7 - Kopya (2)\WindowsFormsApp7\obj\Debug\WindowsFormsApp7.pdb
